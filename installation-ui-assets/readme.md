@@ -1,1 +1,0 @@
-Goobox installation screen assets.
