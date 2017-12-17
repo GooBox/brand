@@ -8,7 +8,7 @@ brand and design assets for the goobox project.
 
 
 <p align="center">
-  <![Imgur](https://i.imgur.com/rqaFOGk.png)/>
+ <img src="https://i.imgur.com/rqaFOGk.png"> 
 </p>
 
 
