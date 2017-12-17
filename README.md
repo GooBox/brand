@@ -7,5 +7,9 @@ brand and design assets for the goobox project.
 ![Imgur](https://i.imgur.com/hzfRSfb.png)
 
 
+<p align="center">
+  <![Imgur](https://i.imgur.com/rqaFOGk.png)/>
+</p>
 
-![Imgur](https://i.imgur.com/HXmgijb.png)
+
+
