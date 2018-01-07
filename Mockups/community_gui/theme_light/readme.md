@@ -1,0 +1,1 @@
+community-gui light-theme mockup.
