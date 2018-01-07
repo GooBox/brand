@@ -1,6 +1,6 @@
 # brand
 
-## Brand and design assets for the goobox project. 
+## Brand and design assets for the goobox project.. 
 
 
 
