@@ -2,10 +2,7 @@
 
 
 
-<p align="center">
- <img src="https://i.imgur.com/rqaFOGk.png"> 
-</p>
-
+This repo contains branding and design assets for the goobox project. Which includes things like logos, mockups for the avaliable apps, fonts, and much more.
 
 [Licence](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
