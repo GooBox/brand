@@ -1,1 +1,1 @@
-Mac icons for status icons
+Mac tray status icons.

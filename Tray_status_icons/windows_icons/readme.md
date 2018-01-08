@@ -1,1 +1,1 @@
-Windows status icons
+Windows tray status icons.
