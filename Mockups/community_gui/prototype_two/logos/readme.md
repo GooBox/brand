@@ -1,1 +1,0 @@
-Logo colors are: #0c71b9 and #29aae1
