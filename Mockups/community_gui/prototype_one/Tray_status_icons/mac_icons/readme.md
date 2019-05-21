@@ -1,1 +1,0 @@
-Mac tray status icons.
